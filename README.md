@@ -1,7 +1,7 @@
 ### Hello!
-## I am xiaoming, welcome to my house. 👋
+ I am xiaoming, welcome to my house. 👋
 
-## Skill description
+### Skill description
 
 `Javascript`, `Typescript`, `Vue`, `Uniapp`,`React`, `NodeJS`, `微信小程序`.
 
