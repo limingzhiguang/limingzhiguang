@@ -5,7 +5,7 @@
 
 `Javascript`, `Typescript`, `Vue`, `Uniapp`,`React`, `NodeJS`, `微信小程序`.
 
-| <a href="https://github.com/limingzhiguang/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=limingzhiguang&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="limingzhiguang's github stats" /></a> | <a href="https://github.com/limingzhiguang/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limingzhiguang&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/limingzhiguang/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=limingzhiguang&show_icons=true&include_all_commits=true&hide_border=true" alt="limingzhiguang's github stats" /></a> | <a href="https://github.com/limingzhiguang/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limingzhiguang&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 <!--
 **limingzhiguang/limingzhiguang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
