@@ -1,4 +1,4 @@
-### Hello!
+### Hi there!
 I am xiaoming, Welcome to my house.👋
 - 🔭 I’m currently working on shanghai.
 - ⛹  I like learning,sports.
