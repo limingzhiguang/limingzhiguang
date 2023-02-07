@@ -1,11 +1,7 @@
 ### Hello!
  I am xiaoming, welcome to my house. 👋
  
-<h1 align="left"> 
- <a href="https://sunguoqi.com/"> 
-   <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Wish you a happy life!&center=true&size=27">
- </a> 
-</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
 
 ### Skill description
 
