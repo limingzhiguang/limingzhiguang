@@ -1,7 +1,8 @@
-### Hello! 😄
+### Hello!
 ## I am xiaoming, welcome to my house. 👋
 
-Skill description
+## Skill description
+
 `Javascript`, `Typescript`, `Vue`, `Uniapp`,`React`, `NodeJS`, `微信小程序`.
 
 | <a href="https://github.com/limingzhiguang/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=limingzhiguang&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="limingzhiguang's github stats" /></a> | <a href="https://github.com/limingzhiguang/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limingzhiguang&layout=compact&theme=buefy&hide_border=true" /></a> |
