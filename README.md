@@ -1,9 +1,8 @@
 ### Hello!
- I am xiaoming, welcome to my house. 👋
- 
+ I am xiaoming, 
 <a href="https://git.io/typing-svg">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&color=2985F7&pause=2000&width=435&lines=Wish+you+a+happy+life+!" alt="Typing SVG" />
-</a>
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&color=2985F7&pause=2000&width=435&lines=welcome+to+my+house+!" alt="Typing SVG" />
+</a>👋
 
 ### Skill description
 
