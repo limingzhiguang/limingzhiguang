@@ -1,5 +1,5 @@
 ### Hi there!
-I am xiaoming, Welcome to my house.👋
+I am ming, Welcome to my house.👋
 - 🔭 I’m currently working on shanghai.
 - ⛹  I like learning,sports.
 - ‍☀️ Face life optimistically.
